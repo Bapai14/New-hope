@@ -1,0 +1,14 @@
+C:\Users\alex_\Desktop\Projects\RotJ\bin\Debug\net7.0\RotJ.exe
+C:\Users\alex_\Desktop\Projects\RotJ\bin\Debug\net7.0\RotJ.deps.json
+C:\Users\alex_\Desktop\Projects\RotJ\bin\Debug\net7.0\RotJ.runtimeconfig.json
+C:\Users\alex_\Desktop\Projects\RotJ\bin\Debug\net7.0\RotJ.dll
+C:\Users\alex_\Desktop\Projects\RotJ\bin\Debug\net7.0\RotJ.pdb
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.AssemblyInfo.cs
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.dll
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\refint\RotJ.dll
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.pdb
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\RotJ.genruntimeconfig.cache
+C:\Users\alex_\Desktop\Projects\RotJ\obj\Debug\net7.0\ref\RotJ.dll
