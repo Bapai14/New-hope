@@ -5,6 +5,6 @@ This project may seem to you as not interesting, but this is actually the first 
 Hope sometimes later I'll read this and feel proud of the way I'll pass through and the place I'll reach.
 
 
-'''
+```
 ConsoleWriteline("Good job, man. Good job")
-'''
+```
